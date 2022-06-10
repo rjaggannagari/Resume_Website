@@ -1,1 +1,1 @@
-# rjaggannagari_website
+This is the website that I created to show my accomplishments and interests. This is an open project so it will be updated as the school year progresses.
