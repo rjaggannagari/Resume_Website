@@ -4,6 +4,7 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
+    margin-bottom: 50px;
 }
 
 .center {
@@ -74,7 +75,6 @@ img
     margin-left: 200px;
     margin-right: 200px;
     margin-top: 50px;
-    margin-bottom: 50px;
     height: 600px;
 }
 
@@ -142,12 +142,12 @@ img
     margin: 8px 4px;
     cursor: pointer;
     transition-duration: 0.4s;
-    border-radius: 10px;
+    border-radius: 2px;
 }
 
 .button1:hover 
 {
-    background-color: white;
+    background-color: tan;
     color: #0A66C2;
 }
 
@@ -158,7 +158,7 @@ img
 
 .button2:hover 
 {
-    background-color: white;
+    background-color: tan;
     color: #6CC644;
 }
 
@@ -169,6 +169,6 @@ img
 
 .button3:hover 
 {
-    background-color: white;
+    background-color: tan;
     color: #E1306C;
 }
