@@ -1,1 +1,4 @@
-This is the website that I created to show my accomplishments and interests. This is an open project so it will be updated as the school year progresses.
+Resume Website
+
+This is a my resume website and I used HTML and CSS to build it
+I built it from start and I am still working on adding different parts to it
